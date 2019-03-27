@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">I Am Sooo Poor</string>
-    <string name="button_text_1">I am POOR</string>
-    <string name="button_text_2">I cant even pay attention</string>
+    <string name="app_name">I am Poor</string>
+    <string name="button_text_1">I am</string>
+    <string name="button_text_2">Poor</string>
 </resources>
